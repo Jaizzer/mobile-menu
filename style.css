@@ -21,6 +21,8 @@ body {
     display: grid;
 
     background-color: grey;
+
+    overflow: hidden;
 }
 
 .menu {
