@@ -16,6 +16,8 @@ body {
 }
 
 .menu {
+    padding: 10px;
+    
     display: grid;
     grid-template-columns: repeat(5, auto);
     justify-content: space-between;
