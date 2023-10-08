@@ -14,3 +14,9 @@ body {
     border: 1px solid black;
     border-radius: 5px;
 }
+
+.menu {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    justify-content: space-between;
+}
