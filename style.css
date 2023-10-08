@@ -19,6 +19,8 @@ body {
     border-radius: 5px;
 
     display: grid;
+
+    background-color: grey;
 }
 
 .menu {
@@ -29,6 +31,8 @@ body {
     justify-content: space-between;
 
     align-self: end;
+
+    background-color: white;
 }
 
 .menu-item {
