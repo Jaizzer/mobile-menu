@@ -13,6 +13,8 @@ body {
 
     border: 1px solid black;
     border-radius: 5px;
+
+    display: grid;
 }
 
 .menu {
@@ -21,4 +23,6 @@ body {
     display: grid;
     grid-template-columns: repeat(5, auto);
     justify-content: space-between;
+
+    align-self: end;
 }
