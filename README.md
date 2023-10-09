@@ -12,6 +12,6 @@ The purpose of this conceptual project is to create a visual representation and 
 
 ## License
 
-This project is licensed under the MIT License. You can find the full text of the license in the [LICENSE.md](LICENSE) file.
+This project is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file.
 
 Feel free to use this mockup as a reference for your design and development process, taking inspiration from its layout and styling concepts.
