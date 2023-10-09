@@ -25,9 +25,7 @@ body {
     overflow: hidden;
 }
 
-.menu {
-    padding: 10px;
-    
+.menu {    
     display: grid;
     grid-template-columns: repeat(5, auto);
     justify-content: space-between;
