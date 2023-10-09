@@ -50,3 +50,11 @@ body {
 span {
     text-align: center;
 }
+
+.selected {
+    border-bottom: 3px solid #9038dd;
+}
+
+.selected * {
+    color: #9038dd;
+}
