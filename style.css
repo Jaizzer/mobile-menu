@@ -25,6 +25,11 @@ body {
     overflow: hidden;
 }
 
+.current-page-indicator {
+    justify-self: center;
+    align-self: center;
+}
+
 .menu {    
     padding: 15px;
 
