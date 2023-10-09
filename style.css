@@ -43,6 +43,10 @@ body {
     padding: 10px;
 }
 
+.menu-item:hover {
+    background-color: #d3cfcf;
+}
+
 span {
     text-align: center;
 }
