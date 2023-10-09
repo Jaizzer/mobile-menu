@@ -28,6 +28,8 @@ body {
 .current-page-indicator {
     justify-self: center;
     align-self: center;
+
+    font-size: 50px;
 }
 
 .menu {    
