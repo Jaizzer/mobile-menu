@@ -26,6 +26,8 @@ body {
 }
 
 .menu {    
+    padding: 15px;
+
     display: grid;
     grid-template-columns: repeat(5, auto);
     justify-content: space-between;
@@ -40,7 +42,7 @@ body {
     flex-direction: column;
     justify-content: center;
 
-    padding: 10px;
+    padding-bottom: 3px;
 }
 
 span {
