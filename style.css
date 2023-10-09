@@ -20,7 +20,7 @@ body {
 
     display: grid;
 
-    background-color: grey;
+    background-color: rgb(238, 238, 238);
 
     overflow: hidden;
 }
