@@ -50,6 +50,7 @@ body {
     justify-content: center;
 
     padding-bottom: 3px;
+    border-bottom: 3px solid white;
 }
 
 span {
@@ -57,7 +58,7 @@ span {
 }
 
 .selected {
-    border-bottom: 3px solid #9038dd;
+    border-color: #9038dd;
 }
 
 .selected * {
